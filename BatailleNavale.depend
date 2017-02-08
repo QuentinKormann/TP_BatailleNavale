@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1486138105 source:c:\program files (x86)\codeblocks\projet\bataillenavale\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1486505200 source:h:\bataillenavale\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1486585115 source:c:\users\killxwolf\desktop\bataillenavale\main.c
+	<stdio.h>
+	<stdlib.h>
+
